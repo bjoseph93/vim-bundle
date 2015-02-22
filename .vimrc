@@ -7,3 +7,4 @@ set background=light
 set tabstop=2
 set expandtab       " tabs are spaces
 set number              " show line numbers
+
